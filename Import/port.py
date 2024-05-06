@@ -29,4 +29,5 @@ from telegram.error import BadRequest
 from HVAnimeBot.misc import pages
 from telegram.helpers import escape_markdown
 from telegram.ext import CallbackContext, CommandHandler, CallbackQueryHandler
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
+from telegram.constants import ParseMode
