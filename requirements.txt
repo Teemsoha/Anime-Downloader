@@ -11,7 +11,7 @@ Pillow
 jikanpy
 regex
 bleach
-git+https://github.com/starry69/python-markdown2.git
+python-markdown-cloudinary
 datetime
 pytz
 cachetools
