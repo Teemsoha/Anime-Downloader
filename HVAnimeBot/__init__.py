@@ -42,5 +42,5 @@ LOAD = Config.LOAD
 TOKEN = Config.TOKEN
 
 
-updater = tg.Updater(TOKEN, use_context=True)
+updater = tg.Updater(TOKEN)
 dispatcher = updater.dispatcher
