@@ -1,3 +1,4 @@
+python-markdown-generator
 future
 emoji
 lxml
